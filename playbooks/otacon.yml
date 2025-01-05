@@ -9,11 +9,6 @@
   vars:
     pip_package: python3-pip
     pip_executable: pip3
-    pip_install_packages:
-      - name: docker
-      - name: docker-compose
-      - name: requests
-        version: 2.29.0
 
     rpi_hostname: otacon
     rpi_docker_compose_project: "{{ rpi_hostname }}"
