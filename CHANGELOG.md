@@ -7,12 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - role `geerlingguy.docker`.
+- Debian 12 "bookworm" support.
 
 ### Changed
 - Update ansible requirements versions.
-- Update `community.docker` to `3.7.0`.
-- Update `community.general` to `8.3.0`.
-- Upgrade Otacon/Ocelot `mdns-beacon` to `0.7.1`.
+- Update `community.docker` to `4.1.0`.
+- Update `community.general` to `10.1.0`.
+- Update `geerlingguy.pip` to `3.1.0`.
+- Update `geerlingguy.security` to `2.4.0`.
+- Update `geerlingguy.firewall` to `2.6.0`.
+- Upgrade Otacon/Ocelot `mdns-beacon` to `0.8.1`.
 - Otacon/Ocelot `nginxproxy/nginx-proxy` to `1.2.1`.
 - Otacon/Ocelot `netdata/netdata` to `v1.44.2`.
 - Otacon/Ocelot `daledavies/jump` to `v1.3.2`.
@@ -22,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - role `geerlingguy.docker_arm`
+- Debian 10 "buster" support.
 
 ## [0.5.0] - 2022-10-15
 ### Added
