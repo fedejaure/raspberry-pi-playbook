@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update `geerlingguy.pip` to `3.1.0`.
 - Update `geerlingguy.security` to `2.4.0`.
 - Update `geerlingguy.firewall` to `2.6.0`.
-- Upgrade Otacon/Ocelot `mdns-beacon` to `0.7.1`.
+- Upgrade Otacon/Ocelot `mdns-beacon` to `0.8.1`.
 - Otacon/Ocelot `nginxproxy/nginx-proxy` to `1.2.1`.
 - Otacon/Ocelot `netdata/netdata` to `v1.44.2`.
 - Otacon/Ocelot `daledavies/jump` to `v1.3.2`.
