@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 - role `geerlingguy.docker`.
+- Debian 12 "bookworm" support.
 
 ### Changed
 - Update ansible requirements versions.
@@ -22,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 - role `geerlingguy.docker_arm`
+- Debian 10 "buster" support.
 
 ## [0.5.0] - 2022-10-15
 ### Added

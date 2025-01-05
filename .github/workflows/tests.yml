@@ -44,8 +44,8 @@ jobs:
     strategy:
       matrix:
         distro:
-          - debian10
           - debian11
+          - debian12
         target:
           - otacon
           - ocelot
